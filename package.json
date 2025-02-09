@@ -31,5 +31,10 @@
     "prettier": "^3.4.2",
     "roblox-ts": "^3.0.0",
     "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@flamework/core": "^1.2.3",
+    "@rbxts/jecs": "^0.5.3",
+    "rbxts-transformer-flamework": "^1.2.3"
   }
 }
